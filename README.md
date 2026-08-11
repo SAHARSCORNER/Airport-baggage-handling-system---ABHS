@@ -357,11 +357,11 @@ Screenshots are provided as the primary demonstration of the system.
 
 ## Baggage Tracking
 
-![Baggage Tracking](screenshots/baggagetrack1png)
+![Baggage Tracking](screenshots/baggagetrack1.png)
 
 ## Conveyor Monitoring
 
-![Conveyor Monitoring](screenshots/conveyor.png)
+![Conveyor Monitoring](screenshots/conveyer.png)
 
 ## Fault Management
 
