@@ -353,27 +353,27 @@ Screenshots are provided as the primary demonstration of the system.
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/opdashboard.png)
 
 ## Baggage Tracking
 
-![Baggage Tracking](screenshots/baggage-tracking.png)
+![Baggage Tracking](screenshots/baggagetrack1png)
 
 ## Conveyor Monitoring
 
-![Conveyor Monitoring](screenshots/conveyor-monitoring.png)
+![Conveyor Monitoring](screenshots/conveyor.png)
 
 ## Fault Management
 
-![Fault Management](screenshots/fault-management.png)
+![Fault Management](screenshots/faults.png)
 
 ## Maintenance
 
-![Maintenance](screenshots/maintenance.png)
+![Maintenance](screenshots/faults2.png)
 
 ## Analytics
 
-![Analytics](screenshots/analytics.png)
+![Analytics](screenshots/reports3.png)
 
 ---
 
